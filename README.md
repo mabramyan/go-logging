@@ -1,5 +1,9 @@
 # logging wrapper
 
+``` 
+go get github.com/mabramyan/go-logging
+```
+
 This is logging wrapper for default `slog` logger in Go and it is not ideal.
 
 It can helps you to change logger if you need this.
